@@ -31,6 +31,3 @@ print(y, "is smallest number")
 print(a, ": number of single digit numbers")
 print(b, ": number of two digit numbers")
 print(c, ": number of three digit numbers")
-print("adding a line")
-print("extra line")
-
